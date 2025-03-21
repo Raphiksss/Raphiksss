@@ -29,3 +29,5 @@
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 [![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)](https://react.dev/)
 [![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
+[![Telebot](https://img.shields.io/badge/-Telebot-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://github.com/eternnoir/pyTelegramBotAPI)
+[![Aiogram](https://img.shields.io/badge/-Aiogram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://docs.aiogram.dev/)
