@@ -15,7 +15,7 @@
 
 # Experience:
 - I can create a simple websites with Django<br>
-- I also can use FastApi and Flask for API or microservices<br>
+- I also can create webseites with FastAPI and React but i'm not as proficient with them.<br>
 - I use Telebot and Aiogram to create bots in Telegram actively.<br>
 - I can work with the squlite3 database and use it on websites and in telegramm bots
 - I also know the how to create parser/grabber scripts.
