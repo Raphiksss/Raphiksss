@@ -7,7 +7,7 @@
 </div>
 
 # About:
-👋Hi, i'm 16 years old beginner and ambitious developer from Russia.<br>
+👋Hi, i'm 14 years old beginner and ambitious developer from Russia.<br>
  I'm still learning and i'm don't have a lot of experience<br>
  but i will try to create something new and useful
 <br><br>
