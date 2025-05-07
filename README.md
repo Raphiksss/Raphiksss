@@ -7,7 +7,7 @@
 </div>
 
 # About:
-👋Hi, i'm 14 years old beginner and ambitious developer from Russia.<br>
+👋Hi, i'm 16 years old beginner and ambitious developer from Russia.<br>
  I'm still learning and i'm don't have a lot of experience<br>
  but i will try to create something new and useful
 <br><br>
@@ -15,7 +15,7 @@
 
 # Experience:
 - I can create a simple websites with Django<br>
-- I also can create webseites with FastAPI and React but i'm not as proficient with them.<br>
+- I also can create webseites/Api with FastAPI.<br>
 - I use Telebot and Aiogram to create bots in Telegram actively.<br>
 - I can work with the aiosqlite or sqlite3 database and use it on websites and in telegramm bots
 - I also know the how to create parser/grabber scripts.
