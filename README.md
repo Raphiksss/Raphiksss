@@ -2,7 +2,7 @@
 <br>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&&width=900&lines=I'm+a+backend+developer+from+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&&width=1000&lines=I'm+a+backend+developer+from+Russia)](https://git.io/typing-svg)
 
 </div>
 
